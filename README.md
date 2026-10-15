@@ -6,7 +6,7 @@ O objetivo é organizar dados de assinaturas do Xbox Game Pass e apoiar a análi
 
 ## 📂 Estrutura do arquivo
 
-O arquivo `projeto 4.xlsx` está organizado em quatro planilhas:
+O arquivo `Projeto3_XBOX_DIO_Santander-Excel_com_IA_e_Claude.xlsx` está organizado em quatro planilhas:
 
 - **Assets** — reúne referências visuais do dashboard, incluindo paleta de cores e elementos gráficos.
 - **Bases** — contém a base de dados de assinantes, com identificador, nome, plano, data de início, renovação automática, preço da assinatura, periodicidade, complementos, cupons e valor total.
